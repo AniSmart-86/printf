@@ -1,6 +1,6 @@
 #include "main.h"
 
-/************************* PRINT UNSIGNED NUMBER BY ANISMART *************************/
+/************************* PRINT UNSIGNED NUMBER *************************/
 /**
  * print_unsigned - unsigned number to be print
  * @types: List a of arguments
