@@ -1,10 +1,10 @@
-
 #include "main.h"
 
 /************************* PRINTING CHAR *************************/
 
 /**
  * print_char - Prints a char
+ * this project is done by Bright and Emmanuel
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags

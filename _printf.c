@@ -1,9 +1,9 @@
 #include "main.h"
 
 void print_buffer(char buffer[], int *buff_ind);
-
 /**
  * _printf - Printf function
+ * this project was done by Emmanuel and bright
  * @format: format.
  * Return: Printed chars.
  */
