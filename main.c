@@ -1,10 +1,9 @@
 #include <limits.h>
 #include <stdio.h>
 #include "main.h"
-
 /**
  * main - Entry point
- *
+ *this project was done by Emmanuel and Bright
  * Return: Always 0
  */
 int main(void)

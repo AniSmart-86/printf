@@ -3,6 +3,7 @@
 /************************* PRINT UNSIGNED NUMBER BY ANISMART *************************/
 /**
  * print_unsigned - unsigned number to be print
+ * this project is done by Bright and Emmanuel
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags

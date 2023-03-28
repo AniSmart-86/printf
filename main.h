@@ -20,7 +20,7 @@
 
 /**
  * struct fmt - Struct op
- *
+ * this project was done by Emmanuel and Bright
  * @fmt: The format.
  * @fn: The function associated.
  */
